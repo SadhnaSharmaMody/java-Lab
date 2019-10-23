@@ -1,0 +1,6 @@
+Public classA
+{
+Public static void main(String args[])
+{
+System.Out.Println(“the number is” ”+” “+args[0]+” “+args[1]+”);
+}
